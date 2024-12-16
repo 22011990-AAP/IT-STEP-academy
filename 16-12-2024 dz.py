@@ -1,0 +1,5 @@
+first = input("Enter first value")
+second = input("Enter second value")
+print( first + second )
+print ( first - second )
+print ( first * second )
